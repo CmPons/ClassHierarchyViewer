@@ -1,0 +1,9 @@
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\bin\Debug\ClassHierarchyViewer.exe.config
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\bin\Debug\ClassHierarchyViewer.exe
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\bin\Debug\ClassHierarchyViewer.pdb
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\obj\Debug\ClassHierarchyViewer.classViewer.resources
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\obj\Debug\ClassHierarchyViewer.Properties.Resources.resources
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\obj\Debug\ClassHierarchyViewer.csproj.GenerateResource.Cache
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\obj\Debug\ClassHierarchyViewer.exe
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\obj\Debug\ClassHierarchyViewer.pdb
+c:\users\cp\documents\visual studio 2012\Projects\ClassHierarchyViewer\obj\Debug\ClassHierarchyViewer.csprojResolveAssemblyReference.cache
